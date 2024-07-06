@@ -1,4 +1,4 @@
-# Project Title
+# EP32-C3_Programmer
 
 ## Description
 This project includes hardware, firmware, and software for programming the ESP32-C3.
